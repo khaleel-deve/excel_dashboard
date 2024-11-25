@@ -1,0 +1,66 @@
+1. How would you handle vendor payment processes and resolve payout queries?
+Answer: Handling vendor payment processes requires a clear understanding of the payment lifecycle:
+
+Understanding the Process: I ensure all invoices and supporting documents are correctly submitted and validated before processing.
+Efficient CRM Use: I use CRM tools to track payments, identify delays, and resolve issues quickly.
+Effective Communication: I maintain clear and professional communication with vendors, ensuring they understand the status of their payments.
+Proactive Problem-Solving: If a query arises, I investigate the issue thoroughly, collaborate with the finance team if necessary, and resolve the matter efficiently to maintain a positive vendor relationship.
+2. Can you share your experience in automating reporting systems and dashboards?
+Answer: In my previous role, I identified repetitive manual tasks in the reporting process and automated them using:
+
+Excel Macros: To streamline data consolidation and formatting.
+Google Sheets Scripting: For real-time data pulling and dashboard updates.
+Visualization Tools: I used Power BI to create interactive dashboards that enabled stakeholders to make informed decisions quickly. By automating these processes, I reduced the reporting time by 40% and increased data accuracy significantly.
+3. How do you maintain data accuracy, consistency, and integrity in reporting?
+Answer: Ensuring data integrity is a top priority:
+
+Validation Techniques: I use Excel and Google Sheets' built-in tools like data validation and conditional formatting to detect errors.
+Automation: Automated scripts minimize human errors.
+Audits: I regularly audit data for discrepancies and verify it against source files.
+Clear Documentation: I maintain detailed documentation of data processes to ensure consistency and help onboard new team members effectively.
+4. How would you identify and address reporting needs in collaboration with business partners?
+Answer: Identifying and addressing reporting needs involves:
+
+Stakeholder Meetings: I start by discussing their goals and understanding their requirements in detail.
+Prototyping: I create initial versions of the reports or dashboards for their feedback.
+Iterative Improvement: Based on their input, I refine the reports to ensure alignment with business objectives.
+Continuous Support: I stay in touch to adapt the reports as business needs evolve, ensuring they remain relevant and valuable.
+5. Tell us about a time you provided ad hoc analysis and support to your team.
+Answer: In my previous role, a sudden request came in to analyze sales data for a specific campaign. I quickly:
+
+Pulled the raw data from the database and cleaned it in Excel.
+Used pivot tables to extract key insights and trends.
+Presented the analysis in a concise Google Slides presentation, highlighting areas of success and improvement. My proactive approach enabled the team to make data-driven decisions, improving the campaign's performance.
+6. What advanced Excel skills do you have, and how have you used them?
+Answer: I have strong experience with advanced Excel features:
+
+VLOOKUP and XLOOKUP: For cross-referencing large datasets.
+Pivot Tables: To summarize and analyze data efficiently.
+Conditional Formatting: To highlight trends and anomalies.
+Macros: To automate repetitive tasks.
+Charts and Dashboards: To visualize data for stakeholders.
+For example, I created an automated sales tracking dashboard that pulled live data, enabling the sales team to monitor their progress in real time.
+7. How would you support account managers with Google Sheets operations and ID creation?
+Answer: For Google Sheets operations:
+
+Template Creation: I design user-friendly templates with built-in formulas to reduce errors.
+Automation: I use Google Apps Script to automate repetitive tasks like ID generation.
+Training: I guide account managers on efficiently using Sheets and solving basic issues independently.
+For ID creation, I ensure a systematic approach, such as generating unique IDs using formulas or scripts to maintain consistency and avoid duplication.
+8. What steps do you take to deliver accurate ad hoc reports under tight deadlines?
+Answer:
+
+Prioritize Requirements: I focus on understanding the key metrics needed for the report.
+Use Templates: I leverage pre-designed templates and tools to save time.
+Collaborate: I reach out to colleagues or teams if additional data is needed.
+Double-Check: I verify the final output to ensure accuracy before submission. For example, during a previous project, I delivered a detailed revenue analysis report within a few hours by quickly consolidating data and using visualization tools for clarity.
+9. What experience do you have with managing large datasets in Excel or Google Sheets?
+Answer: I have experience working with large datasets involving thousands of rows:
+
+Data Cleaning: Using functions like FILTER, SORT, and UNIQUE to manage and organize data efficiently.
+Dynamic Arrays: For scalable calculations.
+Custom Formulas: Writing advanced formulas to handle specific business needs.
+For example, I managed a dataset of over 50,000 customer records to identify trends, which helped optimize marketing strategies.
+10. Why do you want to join Vahan?
+Answer: I am inspired by Vahan’s mission of empowering India’s blue-collar workforce and leveraging AI to create economic opportunities. I am passionate about using data-driven solutions to solve real-world challenges, and Vahan’s innovative approach aligns with my career goals. Joining your team would allow me to contribute to impactful projects while growing in a dynamic and purpose-driven organization.
+
